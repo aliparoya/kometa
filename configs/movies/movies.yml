@@ -40,10 +40,10 @@ collections:
     template: {name: collection, trakt: andresatierf/lists/dc-elseworlds}
     summary: DC Elseworlds consists of DC adaptations that do not fit within the DCEU/DCU continuity.
   DC Extended Universe:
-    template: {name: collection, trakt: twa96/lists/dceu, radarr: true}
+    template: {name: collection, trakt: twa96/lists/dceu, radarr: false}
     summary: The DC Extended Universe (DCEU) is an American media franchise and shared universe centered on a series of superhero films produced by DC Studios and distributed by Warner Bros. Pictures.
   DC Universe: 
-    template: {name: collection, trakt: ianismajoris/lists/dc-universe, radarr: true}
+    template: {name: collection, trakt: ianismajoris/lists/dc-universe, radarr: false}
     summary: The DC Universe (DCU) is an American media franchise and shared universe based on characters from DC Comics publications.
   The Dollars Trilogy:
     template: {name: collection, sort: "Dollars Trilogy", imdb: ls023916334, limit: 0}
